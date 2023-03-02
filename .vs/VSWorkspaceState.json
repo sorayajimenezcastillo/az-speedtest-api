@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SpeedTestApi",
+    "\\SpeedTestApi\\Controllers",
+    "\\SpeedTestApi\\Models"
   ],
-  "SelectedNode": "\\C:\\Courses\\Azure-Cloud-101\\az-speedtest-api",
+  "SelectedNode": "\\SpeedTestApi\\Controllers\\SpeedTestController .cs",
   "PreviewInSolutionExplorer": false
 }
